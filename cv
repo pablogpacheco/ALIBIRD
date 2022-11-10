@@ -8,7 +8,6 @@
         <header>
             <h1 id="nombre">Pablo García Pacheco</h1>
             <p id="fecha_nacimiento">9 de mayo de 2001</p>
-            <p>Nacionalidad: </p><p id="nacionalidad">Española</p>
         </header>
 
         <section id="estudios" style="background-color: aliceblue;">
